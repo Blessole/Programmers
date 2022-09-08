@@ -141,4 +141,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#COS_Pro
+COS_Pro/
+
 # End of https://www.toptal.com/developers/gitignore/api/java,windows,intellij+all
