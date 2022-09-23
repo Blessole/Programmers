@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="220909 Cos Pro 1급 1차 _ 달팽이 배열, 대각선 값 더하기">
+    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="220923 CodeUp 기초 100제 - 1001~1028">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/COS_Pro_Sol/Q1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COS_Pro_Sol/Q1_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +50,13 @@
       <recent name="C:\DevSpace\Programmers\src\COS_Pro" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CodeUp" />
       <recent name="BaekJoon.basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CU_1027">
-    <configuration name="CU_1023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1023" />
+  <component name="RunManager" selected="Application.CU_1085">
+    <configuration name="CU_1084_chk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1084_chk" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1024" />
+    <configuration name="CU_1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1085" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1025" />
+    <configuration name="CodeUp.CU_1081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1081" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1026" />
+    <configuration name="CodeUp.CU_1082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1082" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1027" />
+    <configuration name="CodeUp.CU_1083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1083" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CU_1027" />
-        <item itemvalue="Application.CU_1026" />
-        <item itemvalue="Application.CU_1025" />
-        <item itemvalue="Application.CU_1024" />
-        <item itemvalue="Application.CU_1023" />
+        <item itemvalue="Application.CU_1085" />
+        <item itemvalue="Application.CU_1084_chk" />
+        <item itemvalue="Application.CodeUp.CU_1083" />
+        <item itemvalue="Application.CodeUp.CU_1082" />
+        <item itemvalue="Application.CodeUp.CU_1081" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +151,7 @@
       <workItem from="1662899674594" duration="2018000" />
       <workItem from="1662961821097" duration="1292000" />
       <workItem from="1663830797952" duration="2143000" />
-      <workItem from="1663895458157" duration="15242000" />
+      <workItem from="1663895458157" duration="36095000" />
     </task>
     <task id="LOCAL-00001" summary="220810 깃허브 프로젝트 재생성">
       <created>1660189764937</created>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662724206128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="220923 CodeUp 기초 100제 - 1001~1028">
+      <created>1663911001784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663911001784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +218,8 @@
     <MESSAGE value="220903 카카오 - 성격유형검사" />
     <MESSAGE value="220908 Cos Pro 1급 1차 _ 자연수 값에서 0 없애기" />
     <MESSAGE value="220909 Cos Pro 1급 1차 _ 달팽이 배열, 대각선 값 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="220909 Cos Pro 1급 1차 _ 달팽이 배열, 대각선 값 더하기" />
+    <MESSAGE value="220923 CodeUp 기초 100제" />
+    <MESSAGE value="220923 CodeUp 기초 100제 - 1001~1028" />
+    <option name="LAST_COMMIT_MESSAGE" value="220923 CodeUp 기초 100제 - 1001~1028" />
   </component>
 </project>
