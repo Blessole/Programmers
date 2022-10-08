@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="220928 CodeUp - 1053~1062 / 논리연산, 비트단위논리연산">
+    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221006 그리디 알고리즘 - ATM">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/COS_Pro_Sol/Q1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COS_Pro_Sol/Q1_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +52,22 @@
       <recent name="BaekJoon.basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CU_1096">
-    <configuration name="CU_1092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1092" />
+  <component name="RunManager" selected="Application.BJ_11399">
+    <configuration name="BJ_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_11399" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CU_1099_chk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1099_chk" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -67,20 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1093" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeUp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CU_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CodeUp.CU_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1094" />
       <module name="Programmers" />
       <extension name="coverage">
@@ -93,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CodeUp.CU_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1095" />
       <module name="Programmers" />
       <extension name="coverage">
@@ -106,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CodeUp.CU_1096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1096" />
       <module name="Programmers" />
       <extension name="coverage">
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CU_1096" />
-        <item itemvalue="Application.CU_1095" />
-        <item itemvalue="Application.CU_1094" />
-        <item itemvalue="Application.CU_1093" />
-        <item itemvalue="Application.CU_1092" />
+        <item itemvalue="Application.BJ_11399" />
+        <item itemvalue="Application.CU_1099_chk" />
+        <item itemvalue="Application.CodeUp.CU_1096" />
+        <item itemvalue="Application.CodeUp.CU_1095" />
+        <item itemvalue="Application.CodeUp.CU_1094" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +151,15 @@
       <workItem from="1663830797952" duration="2143000" />
       <workItem from="1663895458157" duration="53409000" />
       <workItem from="1664264495446" duration="12647000" />
+      <workItem from="1664520448857" duration="596000" />
+      <workItem from="1664583886038" duration="736000" />
+      <workItem from="1664674414652" duration="308000" />
+      <workItem from="1664679407105" duration="213000" />
+      <workItem from="1664793656446" duration="175000" />
+      <workItem from="1664852647985" duration="2261000" />
+      <workItem from="1664885114928" duration="13000" />
+      <workItem from="1664945174962" duration="5644000" />
+      <workItem from="1665052981491" duration="9072000" />
     </task>
     <task id="LOCAL-00001" summary="220810 깃허브 프로젝트 재생성">
       <created>1660189764937</created>
@@ -209,7 +217,49 @@
       <option name="project" value="LOCAL" />
       <updated>1664268673166</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="221001 CodeUp - 1078~1085 / 종합-1">
+      <created>1664584017928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664584017928</updated>
+    </task>
+    <task id="LOCAL-00010" summary="221002 CodeUp - 1086~1092 / 종합-2">
+      <created>1664674513344</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664674513344</updated>
+    </task>
+    <task id="LOCAL-00011" summary="221003 CodeUp - 1093~1095 / 1차원 배열">
+      <created>1664793732971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664793732971</updated>
+    </task>
+    <task id="LOCAL-00012" summary="221004 CodeUp - 1096~1099 / 2차원 배열">
+      <created>1664857827144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664857827144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="221005 그리디 알고리즘 - 동전 0">
+      <created>1664952935364</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664952935364</updated>
+    </task>
+    <task id="LOCAL-00014" summary="221006 그리디 알고리즘 - ATM">
+      <created>1665058922168</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665058922168</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +286,12 @@
     <MESSAGE value="220923 CodeUp 기초 100제 - 1001~1028" />
     <MESSAGE value="220924 CodeUp - 1029~1037 / 데이터형, 출력변환" />
     <MESSAGE value="220927 CodeUp - 1038~1052 / 산술연산, 비트시프트연산, 비교연산" />
-    <option name="LAST_COMMIT_MESSAGE" value="220927 CodeUp - 1038~1052 / 산술연산, 비트시프트연산, 비교연산" />
+    <MESSAGE value="221001 CodeUp - 1078~1085 / 종합-1" />
+    <MESSAGE value="221002 CodeUp - 1086~1092 / 종합-2" />
+    <MESSAGE value="221003 CodeUp - 1093~1095 / 1차원 배열" />
+    <MESSAGE value="221004 CodeUp - 1096~1099 / 2차원 배열" />
+    <MESSAGE value="221005 그리디 알고리즘 - 동전 0" />
+    <MESSAGE value="221006 그리디 알고리즘 - ATM" />
+    <option name="LAST_COMMIT_MESSAGE" value="221006 그리디 알고리즘 - ATM" />
   </component>
 </project>
