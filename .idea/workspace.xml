@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221006 그리디 알고리즘 - ATM">
+    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221008 그리디 알고리즘 - 회의실 배정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +159,8 @@
       <workItem from="1664852647985" duration="2261000" />
       <workItem from="1664885114928" duration="13000" />
       <workItem from="1664945174962" duration="5644000" />
-      <workItem from="1665052981491" duration="9072000" />
+      <workItem from="1665052981491" duration="9278000" />
+      <workItem from="1665309642584" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="220810 깃허브 프로젝트 재생성">
       <created>1660189764937</created>
@@ -259,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665058922168</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="221008 그리디 알고리즘 - 회의실 배정">
+      <created>1665192189401</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665192189401</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +300,7 @@
     <MESSAGE value="221004 CodeUp - 1096~1099 / 2차원 배열" />
     <MESSAGE value="221005 그리디 알고리즘 - 동전 0" />
     <MESSAGE value="221006 그리디 알고리즘 - ATM" />
-    <option name="LAST_COMMIT_MESSAGE" value="221006 그리디 알고리즘 - ATM" />
+    <MESSAGE value="221008 그리디 알고리즘 - 회의실 배정" />
+    <option name="LAST_COMMIT_MESSAGE" value="221008 그리디 알고리즘 - 회의실 배정" />
   </component>
 </project>
