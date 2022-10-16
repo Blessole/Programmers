@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221008 그리디 알고리즘 - 회의실 배정">
+    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221015 그리디 알고리즘 - 보물">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +52,9 @@
       <recent name="BaekJoon.basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ_11399">
-    <configuration name="BJ_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_11399" />
+  <component name="RunManager" selected="Application.BJ_1946">
+    <configuration name="BJ_1946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_1946" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CU_1099_chk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1099_chk" />
+    <configuration name="BJ_5585" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_5585" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeUp.*" />
+          <option name="PATTERN" value="BaekJoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeUp.CU_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1094" />
+    <configuration name="BaekJoon.BJ_1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_1026" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeUp.*" />
+          <option name="PATTERN" value="BaekJoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeUp.CU_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1095" />
+    <configuration name="BaekJoon.BJ_11000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_11000" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeUp.*" />
+          <option name="PATTERN" value="BaekJoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeUp.CU_1096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeUp.CU_1096" />
+    <configuration name="BaekJoon.BJ_2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_2839" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeUp.*" />
+          <option name="PATTERN" value="BaekJoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BJ_11399" />
-        <item itemvalue="Application.CU_1099_chk" />
-        <item itemvalue="Application.CodeUp.CU_1096" />
-        <item itemvalue="Application.CodeUp.CU_1095" />
-        <item itemvalue="Application.CodeUp.CU_1094" />
+        <item itemvalue="Application.BJ_1946" />
+        <item itemvalue="Application.BaekJoon.BJ_1026" />
+        <item itemvalue="Application.BaekJoon.BJ_2839" />
+        <item itemvalue="Application.BaekJoon.BJ_11000" />
+        <item itemvalue="Application.BaekJoon.BJ_5585" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,12 @@
       <workItem from="1664885114928" duration="13000" />
       <workItem from="1664945174962" duration="5644000" />
       <workItem from="1665052981491" duration="9278000" />
-      <workItem from="1665309642584" duration="628000" />
+      <workItem from="1665309642584" duration="1913000" />
+      <workItem from="1665488592562" duration="7083000" />
+      <workItem from="1665654170925" duration="2423000" />
+      <workItem from="1665713641843" duration="5868000" />
+      <workItem from="1665818403990" duration="2292000" />
+      <workItem from="1665924269802" duration="3906000" />
     </task>
     <task id="LOCAL-00001" summary="220810 깃허브 프로젝트 재생성">
       <created>1660189764937</created>
@@ -267,7 +272,42 @@
       <option name="project" value="LOCAL" />
       <updated>1665192189401</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="221009 그리디 알고리즘 - 잃어버린 괄호">
+      <created>1665310297719</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665310297719</updated>
+    </task>
+    <task id="LOCAL-00017" summary="221010 그리디 알고리즘 - 거스름돈">
+      <created>1665385930389</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665385930389</updated>
+    </task>
+    <task id="LOCAL-00018" summary="221012 그리디 알고리즘 - 강의실 배정">
+      <created>1665500667029</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665500667029</updated>
+    </task>
+    <task id="LOCAL-00019" summary="221014 그리디 알고리즘 - 설탕 배달">
+      <created>1665733857083</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665733857083</updated>
+    </task>
+    <task id="LOCAL-00020" summary="221015 그리디 알고리즘 - 보물">
+      <created>1665820663244</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665820663244</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +341,11 @@
     <MESSAGE value="221005 그리디 알고리즘 - 동전 0" />
     <MESSAGE value="221006 그리디 알고리즘 - ATM" />
     <MESSAGE value="221008 그리디 알고리즘 - 회의실 배정" />
-    <option name="LAST_COMMIT_MESSAGE" value="221008 그리디 알고리즘 - 회의실 배정" />
+    <MESSAGE value="221009 그리디 알고리즘 - 잃어버린 괄호" />
+    <MESSAGE value="221010 그리디 알고리즘 - 거스름돈" />
+    <MESSAGE value="221012 그리디 알고리즘 - 강의실 배정" />
+    <MESSAGE value="221014 그리디 알고리즘 - 설탕 배달" />
+    <MESSAGE value="221015 그리디 알고리즘 - 보물" />
+    <option name="LAST_COMMIT_MESSAGE" value="221015 그리디 알고리즘 - 보물" />
   </component>
 </project>
