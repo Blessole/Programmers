@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class BJ_1789 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        long S = Integer.parseInt(br.readLine());
+        long S = Long.parseLong(br.readLine());
 
         long sum = 0;
         long count = 0;
