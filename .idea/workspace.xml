@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221019 그리디 알고리즘 - 수들의 합(NumberFormat Runtime Error 수정)">
+    <list default="true" id="a0c80a94-2a16-43c1-9ecb-86de91d6f4a4" name="Changes" comment="221020 그리디 알고리즘 - 주유소">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +53,22 @@
       <recent name="BaekJoon.basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BJ_1789">
+  <component name="RunManager" selected="Application.BJ_1715">
     <configuration name="BJ_10162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_10162" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BJ_1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_1715" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon.BJ_1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.BJ_1026" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BJ_1715" />
         <item itemvalue="Application.BJ_1789" />
         <item itemvalue="Application.BJ_10162" />
         <item itemvalue="Application.BJ_2217" />
         <item itemvalue="Application.BJ_1946" />
-        <item itemvalue="Application.BaekJoon.BJ_1026" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,8 @@
       <workItem from="1666015280117" duration="1208000" />
       <workItem from="1666092361128" duration="5136000" />
       <workItem from="1666186785445" duration="1824000" />
-      <workItem from="1666233030980" duration="1855000" />
+      <workItem from="1666233030980" duration="3361000" />
+      <workItem from="1666434286105" duration="2614000" />
     </task>
     <task id="LOCAL-00001" summary="220810 깃허브 프로젝트 재생성">
       <created>1660189764937</created>
@@ -346,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666233491808</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="221020 그리디 알고리즘 - 주유소">
+      <created>1666270743715</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666270743715</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220902 카카오 - 신고 메일 발송" />
     <MESSAGE value="220903 카카오 - 성격유형검사" />
     <MESSAGE value="220908 Cos Pro 1급 1차 _ 자연수 값에서 0 없애기" />
     <MESSAGE value="220909 Cos Pro 1급 1차 _ 달팽이 배열, 대각선 값 더하기" />
@@ -389,6 +397,7 @@
     <MESSAGE value="221018 그리디 알고리즘 - 전자레인지" />
     <MESSAGE value="221019 그리디 알고리즘 - 수들의 합" />
     <MESSAGE value="221019 그리디 알고리즘 - 수들의 합(NumberFormat Runtime Error 수정)" />
-    <option name="LAST_COMMIT_MESSAGE" value="221019 그리디 알고리즘 - 수들의 합(NumberFormat Runtime Error 수정)" />
+    <MESSAGE value="221020 그리디 알고리즘 - 주유소" />
+    <option name="LAST_COMMIT_MESSAGE" value="221020 그리디 알고리즘 - 주유소" />
   </component>
 </project>
