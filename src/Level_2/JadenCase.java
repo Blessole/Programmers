@@ -1,4 +1,4 @@
-package Level_1;
+package Level_2;
 import java.util.*;
 
 // JadenCase 문자열 만들기
